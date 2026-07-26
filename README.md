@@ -21,7 +21,12 @@ This repository contains C programming programs that I have practiced for Embedd
 13. perfect number
 14. gcd lcm
 15. power of number
-16. 
+16. multification table
+17. simple calculator
+18. count digits
+19. positive negative zero
+20. ASCII value
+21. 
 
 ## Upcoming Topics
 
